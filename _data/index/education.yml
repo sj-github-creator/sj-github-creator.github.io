@@ -1,8 +1,15 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: 金陵科技学院
+  link: http://www.jit.edu.cn
+  date: 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: <br> (expected graduation in 2021)
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: 大桥高级中学
+  link: http://dqzx.jdjy.cn/
+  date: 2014 - 2017
+- name: 浦头中学
+  date: 2011 - 2014
+- name: 浦头中心小学
+  link: http://www.yz-news.com/ptxx/
+  date: 2004 - 2011
+- name: 幼儿园
+  date: 2001 - 2004

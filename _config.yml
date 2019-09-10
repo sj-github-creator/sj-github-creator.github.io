@@ -8,13 +8,14 @@ email: 1950644022@qq.com
 description: 不求上进的肥宅。
 url: # the base hostname & protocol for your site
 keywords: ["blog"]
+author: 帅菊
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          China
+timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -69,3 +70,10 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+#
+###################################
+#分页
+####################################
+#
+#  paginate: 5
+#  paginate_path: "blog/page:num"

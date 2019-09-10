@@ -1,4 +1,5 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: 天蝎座
+  descr: "对互不相同的和互不相融的事物有特殊的兴趣。个性敏感、冷漠、极端，性格偏内向保守，善于伪装自己，报复心强。反应敏锐，反射神经发达。
+只有在热情高涨、幸福洋溢中才能感到自己的存在和价值。"
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  github: https://github.com/sj-github-creator
